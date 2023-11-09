@@ -17,7 +17,7 @@ A brief introduction to the project. Explain what the project does and why it is
 
 ## Installation
 
-Instructions on setting up the project locally.
+Instructions on setting up the project locally. To get a local copy up and running follow these simple example steps.
 
 ```bash
 git clone https://github.com/kangmartin/TV-Show-Index.git
