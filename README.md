@@ -12,7 +12,13 @@ A brief introduction to the project. Explain what the project does and why it is
 ## Features
 
 - Grid display of TV shows
+
+![image](https://github.com/kangmartin/TV-Show-Index/assets/88689251/c9f4a5a3-4383-4a5a-8f6d-8fdff6dbe4c3)
+
 - Detailed view of each show's information
+
+![image](https://github.com/kangmartin/TV-Show-Index/assets/88689251/02dd0daa-dcb3-4d4f-9a63-c4b1d5c63ccc)
+
 - Responsive design for various devices
 
 ## Installation
