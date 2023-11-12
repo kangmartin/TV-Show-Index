@@ -4,7 +4,7 @@
 
 
 TV Shows Explorer is a Vue.js web application for browsing and viewing detailed information about various TV shows.
-This application using free TVmaze.com API for get all shows.
+This application using free TVmaze API for get all shows.
 
 ## Features
 
